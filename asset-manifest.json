@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/pitchme/static/css/main.ea843be5.css",
-    "main.js": "/pitchme/static/js/main.6818b875.js",
+    "main.css": "/pitchme/static/css/main.fc4d24ab.css",
+    "main.js": "/pitchme/static/js/main.0890aece.js",
     "static/js/787.b3cff022.chunk.js": "/pitchme/static/js/787.b3cff022.chunk.js",
     "static/media/ecell-logo.svg": "/pitchme/static/media/ecell-logo.2d096f9290ab508968cf8f06ee752795.svg",
     "static/media/red-logo.svg": "/pitchme/static/media/red-logo.1017b3ec7987b08f2dcec8d4dfc61e3e.svg",
     "static/media/pitchme-b.png": "/pitchme/static/media/pitchme-b.2591d023e8db5f83308d.png",
     "static/media/guide.svg": "/pitchme/static/media/guide.e8c792cc1ce069027f9a2fdc7db4c7bd.svg",
     "static/media/register-no.svg": "/pitchme/static/media/register-no.eda48a6638410c4d2367be7cf130908c.svg",
-    "static/media/logo.svg": "/pitchme/static/media/logo.5af7294a6b6fd0e0e34d900b58694e2e.svg",
     "static/media/networking.svg": "/pitchme/static/media/networking.f2decd8671b25697fa7974ec371f195b.svg",
     "static/media/shocase.svg": "/pitchme/static/media/shocase.a6eeb879e42a59052525d7d4b681eb1e.svg",
     "static/media/Twitter.svg": "/pitchme/static/media/Twitter.04310e52d39561554466582ef21c8466.svg",
@@ -18,12 +17,12 @@
     "static/media/mail.svg": "/pitchme/static/media/mail.6616570ea35a12978c818d73c50793d5.svg",
     "static/media/linkedin.svg": "/pitchme/static/media/linkedin.edcff4d703059206cb5b4d500cb7da7b.svg",
     "index.html": "/pitchme/index.html",
-    "main.ea843be5.css.map": "/pitchme/static/css/main.ea843be5.css.map",
-    "main.6818b875.js.map": "/pitchme/static/js/main.6818b875.js.map",
+    "main.fc4d24ab.css.map": "/pitchme/static/css/main.fc4d24ab.css.map",
+    "main.0890aece.js.map": "/pitchme/static/js/main.0890aece.js.map",
     "787.b3cff022.chunk.js.map": "/pitchme/static/js/787.b3cff022.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea843be5.css",
-    "static/js/main.6818b875.js"
+    "static/css/main.fc4d24ab.css",
+    "static/js/main.0890aece.js"
   ]
 }
