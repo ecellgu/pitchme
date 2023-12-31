@@ -16,25 +16,25 @@ function Why() {
         <div className="flex flex-row justify-between">
           <div className="flex flex-col">
             <img src={investment} alt="" />
-            <div className="text-white text-xl font-normal font-['Inter']">Investment Opportunity</div>
+            <div className="text-white text-xl font-normal font-Roboto">Investment Opportunity</div>
           </div>
           <div>
             <img src={prizes} alt="" />
-            <div className="text-white text-xl font-normal font-['Inter']">Exciting Prizes</div>
+            <div className="text-white text-xl font-normal font-Roboto">Exciting Prizes</div>
           </div>
           <div>
             <img src={networking} alt="" />
-            <div className="text-white text-xl font-normal font-['Inter']">Network & Learn</div>
+            <div className="text-white text-xl font-normal font-Roboto">Network & Learn</div>
           </div>
         </div>
         <div>
           <div>
             <img src={spirit} alt="" />
-            <div className="text-white text-xl font-normal font-['Inter']">Entrepreneurial Spirit</div>
+            <div className="text-white text-xl font-normal font-Roboto">Entrepreneurial Spirit</div>
           </div>
           <div>
             <img src={vision} alt="" />
-            <div className="text-white text-xl font-normal font-['Inter']">Showcase Your Vision</div>
+            <div className="text-white text-xl font-normal font-Roboto">Showcase Your Vision</div>
           </div>
         </div>
       </div>
