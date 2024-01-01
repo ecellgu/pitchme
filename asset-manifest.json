@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/pitchme/static/css/main.fc4d24ab.css",
-    "main.js": "/pitchme/static/js/main.0890aece.js",
+    "main.css": "/pitchme/static/css/main.1a5f5d71.css",
+    "main.js": "/pitchme/static/js/main.cc78269c.js",
     "static/js/787.b3cff022.chunk.js": "/pitchme/static/js/787.b3cff022.chunk.js",
+    "static/media/bg.mp4": "/pitchme/static/media/bg.f780c2a021c880fd0968.mp4",
     "static/media/ecell-logo.svg": "/pitchme/static/media/ecell-logo.2d096f9290ab508968cf8f06ee752795.svg",
+    "static/media/PITCH ME 2.svg": "/pitchme/static/media/PITCH ME 2.1e2a70205d685719c324389ecb97ca1c.svg",
     "static/media/red-logo.svg": "/pitchme/static/media/red-logo.1017b3ec7987b08f2dcec8d4dfc61e3e.svg",
     "static/media/pitchme-b.png": "/pitchme/static/media/pitchme-b.2591d023e8db5f83308d.png",
     "static/media/guide.svg": "/pitchme/static/media/guide.e8c792cc1ce069027f9a2fdc7db4c7bd.svg",
@@ -17,12 +19,12 @@
     "static/media/mail.svg": "/pitchme/static/media/mail.6616570ea35a12978c818d73c50793d5.svg",
     "static/media/linkedin.svg": "/pitchme/static/media/linkedin.edcff4d703059206cb5b4d500cb7da7b.svg",
     "index.html": "/pitchme/index.html",
-    "main.fc4d24ab.css.map": "/pitchme/static/css/main.fc4d24ab.css.map",
-    "main.0890aece.js.map": "/pitchme/static/js/main.0890aece.js.map",
+    "main.1a5f5d71.css.map": "/pitchme/static/css/main.1a5f5d71.css.map",
+    "main.cc78269c.js.map": "/pitchme/static/js/main.cc78269c.js.map",
     "787.b3cff022.chunk.js.map": "/pitchme/static/js/787.b3cff022.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc4d24ab.css",
-    "static/js/main.0890aece.js"
+    "static/css/main.1a5f5d71.css",
+    "static/js/main.cc78269c.js"
   ]
 }
