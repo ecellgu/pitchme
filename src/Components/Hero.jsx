@@ -4,7 +4,7 @@ import guide from '../Assets/guide.svg'
 
 function Hero() {
   return (
-    <div className="flex flex-row justify-between p-5">
+    <div className="relative flex flex-row justify-between p-16">
         <div className="flex flex-col">
       <div className="w-[50%] text-white text-5xl font-bold font-Roboto">
         Unleash Your{" "}
