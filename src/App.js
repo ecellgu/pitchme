@@ -6,7 +6,7 @@ import Footer from './Components/Footer';
 import Hero from './Components/Hero';
 import Navbar from './Components/Navbar';
 import Why from './Components/Why';
-import backgroundVideo from './Assets/bg2.mp4'
+import backgroundVideo from './Assets/bg.mp4'
 
 function App() {
 
@@ -27,17 +27,20 @@ function App() {
         autoPlay
         loop
         muted
+        playsInline 
         className="absolute w-full h-screen object-cover opacity-50 z-0"
         
       >
         <source src={backgroundVideo} type="video/mp4" />
       </video>
+      <div className='p-0'>
       <Navbar/>
       <Hero/>
       <About/>
       <Countdown targetDate={targetDate}/>
       <Why/>
       <Footer/>
+      </div>
     </div>
   );
 }
