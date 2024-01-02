@@ -39,8 +39,8 @@ function App() {
       <div className='p-0'>
       <Navbar/>
       <Hero/>
-      <Countdown targetDate={targetDate}/>
       <About/>
+      <Countdown targetDate={targetDate}/>
       {/* <Highlight/> */}
       <Timeline/>
       <Why/>

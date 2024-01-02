@@ -5,13 +5,14 @@ import twitter from '../Assets/Twitter.svg'
 import insta from '../Assets/Instagram.svg'
 import linkedin from '../Assets/linkedin.svg'
 import mail from '../Assets/mail.svg'
+import gh from '../Assets/github.svg'
 
 function Footer() {
   return (
     <div className='flex flex-col items-center'>
       <img src={red} alt="" className='lg:w-28 w-20 mb-5' />
       <div className=" text-center text-white lg:text-3xl text-2xl font-semibold font-Roboto">Contact Us</div>
-      <div className='flex flex-row gap-10 lg:mt-10 mt-5 mb-5' >
+      <div className='flex flex-row gap-8 lg:mt-10 mt-5 mb-5' >
         <a href="https://twitter.com/ecellgu" target='_blank'>
         <img src={twitter} alt="" className='w-8'/>
         </a>
@@ -23,6 +24,9 @@ function Footer() {
         </a>
         <a href="mailto:ecell@galgotiasuniversty.edu.in" target='_blank'>
         <img src={mail} alt="" className='w-8'/>
+        </a>
+        <a href="https://github.com/ecellgu" target='_blank'>
+        <img src={gh} alt="" className='w-8'/>
         </a>
       </div>
       <img src={pitchme} alt=""  />
