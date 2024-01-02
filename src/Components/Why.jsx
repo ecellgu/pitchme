@@ -15,7 +15,7 @@ function Why() {
         </span>
       </div>
 
-      <div className="flex lg:flex-row flex-col text-white justify-between mt-20">
+      <div className="flex lg:flex-row flex-col text-white justify-between mt-16">
 
         <div className="flex flex-col justify-between">
           <div className="flex flex-col items-center mb-20">

@@ -45,7 +45,7 @@ const Timeline = () => (
               >
                 <h3 className="font-bold text-lg mb-1">Screening Round <br /> {'('}8th-9th Jan 2024{')'}</h3>
                 <p className="leading-tight text-justify">
-                  Top 30 Team is Presenting thier Pitch in Front 
+                  Top 30 Team have to present thier Pitch during Screening Round 
                 </p>
               </div>
             </div>
