@@ -9,7 +9,7 @@ import mail from '../Assets/mail.svg'
 function Footer() {
   return (
     <div className='flex flex-col items-center'>
-      <img src={red} alt="" className='lg:w-32 w-20 mb-5' />
+      <img src={red} alt="" className='lg:w-28 w-20 mb-5' />
       <div className=" text-center text-white lg:text-3xl text-2xl font-semibold font-Roboto">Contact Us</div>
       <div className='flex flex-row gap-10 lg:mt-10 mt-5 mb-5' >
         <a href="https://twitter.com/ecellgu" target='_blank'>

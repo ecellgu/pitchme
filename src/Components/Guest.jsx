@@ -7,7 +7,7 @@ function Guest() {
 
   return (
     <div className="container mx-auto p-8 text-white mb-20 ">
-      <div className="lg:text-6xl text-4xl font-bold text-center mb-4">Our Chief <span className="text-yellow-500 lg:text-6xl text-4xl font-bold font-Roboto">
+      <div className="lg:text-5xl text-4xl font-bold text-center mb-4">Our Chief <span className="text-yellow-500 lg:text-5xl text-4xl font-bold font-Roboto">
           Guest
         </span></div>
      <div className='flex lg:flex-row flex-col justify-between lg:pl-32 lg:pr-32 lg:p-16 gap-20 lg:gap-0'>

@@ -41,7 +41,7 @@ const Countdown = ({ targetDate }) => {
   }, [targetDate]);
 
   return (
-    <div className="text-white w-auto flex flex-row justify-center lg:gap-20 gap-8 items-center  mt-10 relative">
+    <div className="text-white w-auto flex flex-row justify-center lg:gap-20 gap-8 items-center   relative">
       <div className="flex flex-col items-center">
         <div className="text-center lg:text-3xl text-2xl font-bold font-Inter">{timeLeft.days}</div>
         <div className="text-center text-white lg:text-4xl text-3xl font-bold font-Inter">

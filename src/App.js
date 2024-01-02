@@ -9,6 +9,7 @@ import Why from './Components/Why';
 import backgroundVideo from './Assets/bg.mp4'
 import Highlight from './Components/Highlight';
 import Guest from './Components/Guest';
+import Timeline from './Components/Timeline';
 
 function App() {
 
@@ -40,7 +41,8 @@ function App() {
       <Hero/>
       <Countdown targetDate={targetDate}/>
       <About/>
-      <Highlight/>
+      {/* <Highlight/> */}
+      <Timeline/>
       <Why/>
       <Guest/>
       <Footer/>

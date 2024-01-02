@@ -4,7 +4,7 @@ import video from '../Assets/bg.mp4';
 
 function About() {
   return (
-    <div className='lg:p-32 p-10 mt-32 lg:mt-0'>
+    <div className='lg:p-32 p-10 mt-40 lg:mt-0'>
       <div className="text-center text-white lg:text-5xl text-4xl font-bold font-Roboto">
         About the <span className="text-yellow-500 lg:text-5xl text-4xl font-bold font-Roboto">
           Event
@@ -27,6 +27,7 @@ function About() {
           />
         </div>
       </div>
+
     </div>
   );
 }
