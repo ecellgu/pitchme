@@ -41,28 +41,28 @@ const Countdown = ({ targetDate }) => {
   }, [targetDate]);
 
   return (
-    <div className="text-white flex flex-row justify-center gap-20 items-center mb-32">
+    <div className="text-white w-auto flex flex-row justify-center lg:gap-20 gap-8 items-center  mt-10 relative">
       <div className="flex flex-col items-center">
-        <div className="text-center text-3xl font-bold font-Inter">{timeLeft.days}</div>
-        <div className="text-center text-white text-4xl font-bold font-Inter">
+        <div className="text-center lg:text-3xl text-2xl font-bold font-Inter">{timeLeft.days}</div>
+        <div className="text-center text-white lg:text-4xl text-3xl font-bold font-Inter">
           Day
         </div>
       </div>
       <div className="flex flex-col items-center">
-        <div className="text-center text-3xl font-bold font-Inter">{timeLeft.hours}</div>
-        <div className="text-center text-white text-4xl font-bold font-Inter">
+        <div className="text-center lg:text-3xl text-2xl font-bold font-Inter">{timeLeft.hours}</div>
+        <div className="text-center text-white lg:text-4xl text-3xl font-bold font-Inter">
           Hours
         </div>
       </div>
       <div className="flex flex-col items-center">
-        <div className="text-center text-3xl font-bold font-Inter">{timeLeft.minutes}</div>
-        <div className="text-center text-white text-4xl font-bold font-Inter">
+        <div className="text-center lg:text-3xl text-2xl font-bold font-Inter">{timeLeft.minutes}</div>
+        <div className="text-center text-white lg:text-4xl text-3xl font-bold font-Inter">
           Min
         </div>
       </div>
       <div className="flex flex-col items-center">
-        <div className="text-center text-3xl font-bold font-Inter">{timeLeft.seconds}</div>
-        <div className="text-center text-white text-4xl font-bold font-Inter">
+        <div className="text-center lg:text-3xl text-2xl font-bold font-Inter">{timeLeft.seconds}</div>
+        <div className="text-center text-white lg:text-4xl text-3xl font-bold font-Inter">
           Sec
         </div>
       </div>

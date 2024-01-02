@@ -9,15 +9,23 @@ import mail from '../Assets/mail.svg'
 function Footer() {
   return (
     <div className='flex flex-col items-center'>
-      <img src={red} alt="" className='w-32 mb-5' />
-      <div className=" text-center text-white text-3xl font-semibold font-Roboto">Contact Us</div>
-      <div className='flex flex-row gap-10 mt-10 mb-5' >
-        <img src={twitter} alt="" />
-        <img src={insta} alt="" />
-        <img src={linkedin} alt="" />
-        <img src={mail} alt="" />
+      <img src={red} alt="" className='lg:w-32 w-20 mb-5' />
+      <div className=" text-center text-white lg:text-3xl text-2xl font-semibold font-Roboto">Contact Us</div>
+      <div className='flex flex-row gap-10 lg:mt-10 mt-5 mb-5' >
+        <a href="https://twitter.com/ecellgu" target='_blank'>
+        <img src={twitter} alt="" className='w-8'/>
+        </a>
+        <a href="https://www.instagram.com/ecell_gu" target='_blank'>
+        <img src={insta} alt="" className='w-8'/>
+        </a>
+        <a href="https://www.linkedin.com/company/88001381/admin/feed/posts/" target='_blank'>
+        <img src={linkedin} alt="" className='w-8'/>
+        </a>
+        <a href="mailto:ecell@galgotiasuniversty.edu.in" target='_blank'>
+        <img src={mail} alt="" className='w-8'/>
+        </a>
       </div>
-      <img src={pitchme} alt="" />
+      <img src={pitchme} alt=""  />
     </div>
   )
 }
