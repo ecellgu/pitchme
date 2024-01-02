@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pitchme/static/css/main.b83c0ba1.css",
-    "main.js": "/pitchme/static/js/main.d582512e.js",
+    "main.css": "/pitchme/static/css/main.234427ab.css",
+    "main.js": "/pitchme/static/js/main.042d6f04.js",
     "reactPlayerYouTube.js": "/pitchme/static/js/reactPlayerYouTube.d9d564e9.chunk.js",
     "reactPlayerSoundCloud.js": "/pitchme/static/js/reactPlayerSoundCloud.9e403c6c.chunk.js",
     "reactPlayerVimeo.js": "/pitchme/static/js/reactPlayerVimeo.2d897bc9.chunk.js",
@@ -17,8 +17,11 @@
     "reactPlayerPreview.js": "/pitchme/static/js/reactPlayerPreview.fc3652b3.chunk.js",
     "static/js/787.b3cff022.chunk.js": "/pitchme/static/js/787.b3cff022.chunk.js",
     "static/media/bg.mp4": "/pitchme/static/media/bg.f780c2a021c880fd0968.mp4",
+    "static/media/khalid.png": "/pitchme/static/media/khalid.99f22221d58f4134d13e.png",
     "static/media/ecell-logo.svg": "/pitchme/static/media/ecell-logo.2d096f9290ab508968cf8f06ee752795.svg",
+    "static/media/bahu.png": "/pitchme/static/media/bahu.9366538cc4c97fa3a2b2.png",
     "static/media/PITCH ME 2.svg": "/pitchme/static/media/PITCH ME 2.1e2a70205d685719c324389ecb97ca1c.svg",
+    "static/media/trina.png": "/pitchme/static/media/trina.efe9d48216d387855879.png",
     "static/media/red-logo.svg": "/pitchme/static/media/red-logo.1017b3ec7987b08f2dcec8d4dfc61e3e.svg",
     "static/media/hero-1.svg": "/pitchme/static/media/hero-1.25d8a5b012a0f0feb02a2ec7577d15f1.svg",
     "static/media/hero-2.svg": "/pitchme/static/media/hero-2.33f324a819f7b1a8bc099ed96fb04daa.svg",
@@ -36,8 +39,8 @@
     "static/media/mail.svg": "/pitchme/static/media/mail.6616570ea35a12978c818d73c50793d5.svg",
     "static/media/linkedin.svg": "/pitchme/static/media/linkedin.edcff4d703059206cb5b4d500cb7da7b.svg",
     "index.html": "/pitchme/index.html",
-    "main.b83c0ba1.css.map": "/pitchme/static/css/main.b83c0ba1.css.map",
-    "main.d582512e.js.map": "/pitchme/static/js/main.d582512e.js.map",
+    "main.234427ab.css.map": "/pitchme/static/css/main.234427ab.css.map",
+    "main.042d6f04.js.map": "/pitchme/static/js/main.042d6f04.js.map",
     "reactPlayerYouTube.d9d564e9.chunk.js.map": "/pitchme/static/js/reactPlayerYouTube.d9d564e9.chunk.js.map",
     "reactPlayerSoundCloud.9e403c6c.chunk.js.map": "/pitchme/static/js/reactPlayerSoundCloud.9e403c6c.chunk.js.map",
     "reactPlayerVimeo.2d897bc9.chunk.js.map": "/pitchme/static/js/reactPlayerVimeo.2d897bc9.chunk.js.map",
@@ -54,7 +57,7 @@
     "787.b3cff022.chunk.js.map": "/pitchme/static/js/787.b3cff022.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b83c0ba1.css",
-    "static/js/main.d582512e.js"
+    "static/css/main.234427ab.css",
+    "static/js/main.042d6f04.js"
   ]
 }
