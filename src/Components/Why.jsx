@@ -8,8 +8,8 @@ import incubation from "../Assets/incubation.svg";
 
 function Why() {
   return (
-    <div className="lg:p-20 p-10">
-      <div className="text-center text-white lg:text-5xl text-4xl font-bold font-Inter" >
+    <div className="lg:p-32 p-10">
+      <div className="text-center text-white lg:text-6xl text-4xl font-bold font-Inter" >
         Why <span className="text-yellow-500 lg:text-6xl text-4xl font-bold font-Roboto">
           Pitch Me 2.0?
         </span>

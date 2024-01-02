@@ -8,6 +8,7 @@ import Navbar from './Components/Navbar';
 import Why from './Components/Why';
 import backgroundVideo from './Assets/bg.mp4'
 import Highlight from './Components/Highlight';
+import Guest from './Components/Guest';
 
 function App() {
 
@@ -41,6 +42,7 @@ function App() {
       <About/>
       <Highlight/>
       <Why/>
+      <Guest/>
       <Footer/>
       </div>
     </div>
