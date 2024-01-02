@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pitchme/static/css/main.4483e65b.css",
-    "main.js": "/pitchme/static/js/main.f9f22138.js",
+    "main.css": "/pitchme/static/css/main.ac9084d2.css",
+    "main.js": "/pitchme/static/js/main.0c135464.js",
     "reactPlayerYouTube.js": "/pitchme/static/js/reactPlayerYouTube.d9d564e9.chunk.js",
     "reactPlayerSoundCloud.js": "/pitchme/static/js/reactPlayerSoundCloud.9e403c6c.chunk.js",
     "reactPlayerVimeo.js": "/pitchme/static/js/reactPlayerVimeo.2d897bc9.chunk.js",
@@ -41,8 +41,8 @@
     "static/media/mail.svg": "/pitchme/static/media/mail.6616570ea35a12978c818d73c50793d5.svg",
     "static/media/linkedin.svg": "/pitchme/static/media/linkedin.edcff4d703059206cb5b4d500cb7da7b.svg",
     "index.html": "/pitchme/index.html",
-    "main.4483e65b.css.map": "/pitchme/static/css/main.4483e65b.css.map",
-    "main.f9f22138.js.map": "/pitchme/static/js/main.f9f22138.js.map",
+    "main.ac9084d2.css.map": "/pitchme/static/css/main.ac9084d2.css.map",
+    "main.0c135464.js.map": "/pitchme/static/js/main.0c135464.js.map",
     "reactPlayerYouTube.d9d564e9.chunk.js.map": "/pitchme/static/js/reactPlayerYouTube.d9d564e9.chunk.js.map",
     "reactPlayerSoundCloud.9e403c6c.chunk.js.map": "/pitchme/static/js/reactPlayerSoundCloud.9e403c6c.chunk.js.map",
     "reactPlayerVimeo.2d897bc9.chunk.js.map": "/pitchme/static/js/reactPlayerVimeo.2d897bc9.chunk.js.map",
@@ -59,7 +59,7 @@
     "787.b3cff022.chunk.js.map": "/pitchme/static/js/787.b3cff022.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4483e65b.css",
-    "static/js/main.f9f22138.js"
+    "static/css/main.ac9084d2.css",
+    "static/js/main.0c135464.js"
   ]
 }
