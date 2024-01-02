@@ -27,7 +27,7 @@ function Hero() {
           <br />
         </span>
       <div className="flex flex-row justify-between lg:pr-20 lg:mt-20 mt-10 gap-10">
-        <a href="https://bit.ly/pitchme-2" target="_blank">
+        <a href="https://forms.gle/fF8rTky1aQQQWEf48" target="_blank">
             <img src={register} alt="" />
             </a>
             <a href="https://docs.google.com/presentation/d/1EYjB-i9UIZNvVgSGxm-LQzkkNYV1-RN22H25tIitwCc/edit?usp=sharing" target="_blank">
