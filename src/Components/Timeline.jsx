@@ -55,7 +55,7 @@ const Timeline = () => (
               <div
                 className="bg-gradient-to-t from-[#E1AA1F] via-[#D9C82E] to-[#F3BC30] col-start-1 col-end-5 p-4 rounded-xl my-4 ml-auto shadow-md"
               >
-                <h3 className="font-bold text-lg mb-1">Final Presentation Round <br /> {'('}7th Jan 2024{')'}</h3>
+                <h3 className="font-bold text-lg mb-1">Final Presentation Round <br /> {'('}11th Jan 2024{')'}</h3>
                 <p className="leading-tight text-justify">
                 Top 20 teams will get a chance to present to investors.
                 </p>
