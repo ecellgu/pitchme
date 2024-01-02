@@ -4,7 +4,7 @@ import ecell from '../Assets/ecell-logo.svg'
 
 function Navbar() {
   return (
-    <div className='mb-10 p-10 relative'>
+    <div className=' p-10 relative'>
       <div className='pl-5 pr-5'>
         <div className='flex flex-row justify-between' >
             <img src={logo} alt="pitchme" className='w-96 ' />

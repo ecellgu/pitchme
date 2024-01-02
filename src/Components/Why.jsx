@@ -1,13 +1,14 @@
 import React from "react";
-import prizes from "../Assets/shocase.svg";
+import prizes from "../Assets/prize.svg";
 import networking from "../Assets/networking.svg";
 import spirit from "../Assets/entrepreneurship.svg";
 import investment from "../Assets/investor.svg";
 import vision from "../Assets/shocase.svg";
+import incubation from "../Assets/incubation.svg";
 
 function Why() {
   return (
-    <div className="p-20">
+    <div className="p-20 ">
       <div className="text-center text-white text-5xl font-bold font-Inter">
         Why Pitch Me 2.0?
       </div>
@@ -45,9 +46,9 @@ function Why() {
         </div>
         <div className="flex flex-col justify-between">
           <div className="flex flex-col items-center mb-20">
-            <img src={vision} alt="" className="w-20" />
+            <img src={incubation} alt="" className="w-20" />
             <div className="text-white text-2xl font-bold font-Roboto">
-              Showcase Your Vision
+              Incubation Opportunity
             </div>
           </div>
           <div className="flex flex-col items-center mb-20">

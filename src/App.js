@@ -7,6 +7,7 @@ import Hero from './Components/Hero';
 import Navbar from './Components/Navbar';
 import Why from './Components/Why';
 import backgroundVideo from './Assets/bg.mp4'
+import Highlight from './Components/Highlight';
 
 function App() {
 
@@ -38,6 +39,7 @@ function App() {
       <Hero/>
       <About/>
       <Countdown targetDate={targetDate}/>
+      <Highlight/>
       <Why/>
       <Footer/>
       </div>

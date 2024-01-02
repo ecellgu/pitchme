@@ -43,28 +43,28 @@ const Countdown = ({ targetDate }) => {
   return (
     <div className="text-white flex flex-row justify-center gap-20 items-center mb-32">
       <div className="flex flex-col items-center">
+        <div className="text-center text-3xl font-bold font-Inter">{timeLeft.days}</div>
         <div className="text-center text-white text-4xl font-bold font-Inter">
           Day
         </div>
-        <div className="text-center text-3xl font-bold font-Inter">{timeLeft.days}</div>
       </div>
       <div className="flex flex-col items-center">
+        <div className="text-center text-3xl font-bold font-Inter">{timeLeft.hours}</div>
         <div className="text-center text-white text-4xl font-bold font-Inter">
           Hours
         </div>
-        <div className="text-center text-3xl font-bold font-Inter">{timeLeft.hours}</div>
       </div>
       <div className="flex flex-col items-center">
+        <div className="text-center text-3xl font-bold font-Inter">{timeLeft.minutes}</div>
         <div className="text-center text-white text-4xl font-bold font-Inter">
           Min
         </div>
-        <div className="text-center text-3xl font-bold font-Inter">{timeLeft.minutes}</div>
       </div>
       <div className="flex flex-col items-center">
+        <div className="text-center text-3xl font-bold font-Inter">{timeLeft.seconds}</div>
         <div className="text-center text-white text-4xl font-bold font-Inter">
           Sec
         </div>
-        <div className="text-center text-3xl font-bold font-Inter">{timeLeft.seconds}</div>
       </div>
      
     </div>
