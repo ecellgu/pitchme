@@ -20,7 +20,7 @@ function Guest() {
         <div className='flex flex-col items-center'>
             <img src={img2} alt="" className='lg:w-52 w-32 mb-2 hover:scale-105 transition-transform duration-300 ease-in-out'/>
             <div className='font-bold text-2xl'>Trina Das</div>
-            <div className='font-semibold text-lg'>Founder GigChain</div>
+            <div className='font-semibold text-lg'>Founder Trinzz</div>
             <div className='font-normal text-sm'>{"("}Speaker{")"}</div>
         </div>
         <div className='flex flex-col items-center'>
