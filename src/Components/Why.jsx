@@ -15,16 +15,16 @@ function Why() {
         </span>
       </div>
 
-      <div className="flex lg:flex-row flex-col text-white justify-between mt-16">
+      <div className="flex lg:flex-row flex-col text-white justify-between mt-16 gap-10">
 
-        <div className="flex flex-col justify-between">
-          <div className="flex flex-col items-center mb-20">
+        <div className="flex flex-col justify-between gap-10">
+          <div className="flex flex-col items-center  ">
             <img src={investment} alt="" className="lg:w-20 w-16" />
             <div className="text-white text-xl font-bold font-Roboto">
               Investment Opportunity
             </div>
           </div>
-          <div className="flex flex-col items-center mb-20">
+          <div className="flex flex-col items-center  ">
             <img src={prizes} alt="" className="lg:w-20 w-16 w-16" />
             <div className="text-white text-xl font-bold font-Roboto">
               Exciting Prizes
@@ -32,28 +32,28 @@ function Why() {
           </div>
         </div>
 
-        <div className="flex flex-col justify-between">
-          <div className="flex flex-col items-center mb-20">
+        <div className="flex flex-col justify-between gap-10">
+          <div className="flex flex-col items-center  ">
             <img src={networking} alt="" className="lg:w-20 w-16" />
             <div className="text-white text-xl font-bold font-Roboto">
               Network & Learn
             </div>
           </div>
-          <div className="flex flex-col items-center mb-20">
+          <div className="flex flex-col items-center  ">
             <img src={spirit} alt="" className="lg:w-20 w-16" />
             <div className="text-white text-xl font-bold font-Roboto">
               Entrepreneurial Spirit
             </div>
           </div>
         </div>
-        <div className="flex flex-col justify-between">
-          <div className="flex flex-col items-center mb-20">
+        <div className="flex flex-col justify-between gap-10">
+          <div className="flex flex-col items-center  ">
             <img src={incubation} alt="" className="lg:w-20 w-16" />
             <div className="text-white text-xl font-bold font-Roboto">
               Incubation Opportunity
             </div>
           </div>
-          <div className="flex flex-col items-center mb-20">
+          <div className="flex flex-col items-center  ">
             <img src={vision} alt="" className="lg:w-20 w-16" />
             <div className="text-white text-xl font-bold font-Roboto">
               Showcase Your Vision

@@ -7,7 +7,6 @@ import Hero from './Components/Hero';
 import Navbar from './Components/Navbar';
 import Why from './Components/Why';
 import backgroundVideo from './Assets/bg.mp4'
-import Highlight from './Components/Highlight';
 import Guest from './Components/Guest';
 import Timeline from './Components/Timeline';
 
@@ -41,7 +40,6 @@ function App() {
       <Hero/>
       <About/>
       <Countdown targetDate={targetDate}/>
-      {/* <Highlight/> */}
       <Timeline/>
       <Why/>
       <Guest/>

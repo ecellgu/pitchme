@@ -1,8 +1,12 @@
 import React from 'react';
-import bg from '../Assets/higlight-bg.png'
+import bg from '../Assets/highlight-bg.jpg'
+import img1 from '../Assets/pool.svg'
+import img2 from '../Assets/ticket.svg'
+import img3 from '../Assets/goodies.svg'
+import img4 from '../Assets/certificate.svg'
 
 const Timeline = () => (
-<div className="bg-cover pt-10" style={{ backgroundImage: `url(${bg})` }}>
+<div className="bg-cover lg:bg-center pt-10 lg:pb-10 pb-20" style={{ backgroundImage: `url(${bg})` }}>
 <div className="flex flex-col items-center lg:pl-32 lg:pr-32 pl-5 pr-5">
       <h2 className="lg:text-5xl text-4xl font-bold mb-4 text-white">Event <span className="text-yellow-500 lg:text-5xl text-4xl font-bold font-Roboto">
           Highlights
@@ -71,7 +75,15 @@ const Timeline = () => (
             </div>
            
           </div>
+        <h2 className="lg:text-3xl text-2xl font-bold mb-4 text-white lg:mt-32 mt-20">For Participants</h2>
         </div>
+        <div className='flex lg:flex-row flex-col  justify-between lg:pl-40 pl-20 pr-20 gap-5 lg:pr-40 lg:p-10 '>
+        <img src={img1} alt="" />
+        <img src={img2} alt="" />
+        <img src={img3} alt="" />
+        <img src={img4} alt="" />
+
+      </div>
         </div>
         
 

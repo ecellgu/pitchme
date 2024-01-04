@@ -26,7 +26,7 @@ function Guest() {
         <div className='flex flex-col items-center'>
             <img src={img3} alt="" className='lg:w-52 w-32 mb-2 hover:scale-105 transition-transform duration-300 ease-in-out'/>
             <div className='font-bold text-2xl'>Bahu</div>
-            <div className='font-semibold text-lg'>Ex Google Employee</div>
+            <div className='font-semibold text-lg'>Angel Investor</div>
             <div className='font-normal text-sm'>{"("}Investor{")"}</div>
         </div>
      </div>
