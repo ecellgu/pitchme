@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/pitchme/static/css/main.ac9084d2.css",
-    "main.js": "/pitchme/static/js/main.e528bf4a.js",
+    "main.css": "/pitchme/static/css/main.d6940d0d.css",
+    "main.js": "/pitchme/static/js/main.8a902ec4.js",
     "reactPlayerYouTube.js": "/pitchme/static/js/reactPlayerYouTube.d9d564e9.chunk.js",
     "reactPlayerSoundCloud.js": "/pitchme/static/js/reactPlayerSoundCloud.9e403c6c.chunk.js",
     "reactPlayerVimeo.js": "/pitchme/static/js/reactPlayerVimeo.2d897bc9.chunk.js",
-    "reactPlayerFacebook.js": "/pitchme/static/js/reactPlayerFacebook.9dfc7391.chunk.js",
+    "reactPlayerFacebook.js": "/pitchme/static/js/reactPlayerFacebook.6169ffb1.chunk.js",
     "reactPlayerStreamable.js": "/pitchme/static/js/reactPlayerStreamable.514a0298.chunk.js",
     "reactPlayerWistia.js": "/pitchme/static/js/reactPlayerWistia.e8136594.chunk.js",
     "reactPlayerTwitch.js": "/pitchme/static/js/reactPlayerTwitch.8f6592cc.chunk.js",
@@ -24,12 +24,16 @@
     "static/media/bahu.png": "/pitchme/static/media/bahu.9366538cc4c97fa3a2b2.png",
     "static/media/PITCH ME 2.svg": "/pitchme/static/media/PITCH ME 2.1e2a70205d685719c324389ecb97ca1c.svg",
     "static/media/red-logo.svg": "/pitchme/static/media/red-logo.1017b3ec7987b08f2dcec8d4dfc61e3e.svg",
-    "static/media/higlight-bg.png": "/pitchme/static/media/higlight-bg.c36055f32cc9fca2baa9.png",
     "static/media/hero-1.svg": "/pitchme/static/media/hero-1.25d8a5b012a0f0feb02a2ec7577d15f1.svg",
     "static/media/hero-2.svg": "/pitchme/static/media/hero-2.33f324a819f7b1a8bc099ed96fb04daa.svg",
     "static/media/pitchme-b.png": "/pitchme/static/media/pitchme-b.2591d023e8db5f83308d.png",
+    "static/media/certificate.svg": "/pitchme/static/media/certificate.70460e458d2542b584681e8331146b42.svg",
+    "static/media/goodies.svg": "/pitchme/static/media/goodies.156410cca0b0fc79fd4c5d14ff20a01e.svg",
+    "static/media/ticket.svg": "/pitchme/static/media/ticket.0992b0aac8984277a2e64c3b5a66a940.svg",
+    "static/media/pool.svg": "/pitchme/static/media/pool.18e6e5c837ad109f4cc5270ac573672a.svg",
     "static/media/guide.svg": "/pitchme/static/media/guide.266aa9d13eae4d522ef73dfddae9cba4.svg",
     "static/media/register.svg": "/pitchme/static/media/register.7e8d85813e80d6c707faf12f3b9bc639.svg",
+    "static/media/highlight-bg.jpg": "/pitchme/static/media/highlight-bg.0be4905db644a5c5ac46.jpg",
     "static/media/prize.svg": "/pitchme/static/media/prize.60387e910706b1dcb06d9b1123d6c7a7.svg",
     "static/media/incubation.svg": "/pitchme/static/media/incubation.a3d59f1f45b4b9187ff3daa403fdeb62.svg",
     "static/media/networking.svg": "/pitchme/static/media/networking.f2decd8671b25697fa7974ec371f195b.svg",
@@ -42,12 +46,12 @@
     "static/media/mail.svg": "/pitchme/static/media/mail.6616570ea35a12978c818d73c50793d5.svg",
     "static/media/linkedin.svg": "/pitchme/static/media/linkedin.edcff4d703059206cb5b4d500cb7da7b.svg",
     "index.html": "/pitchme/index.html",
-    "main.ac9084d2.css.map": "/pitchme/static/css/main.ac9084d2.css.map",
-    "main.e528bf4a.js.map": "/pitchme/static/js/main.e528bf4a.js.map",
+    "main.d6940d0d.css.map": "/pitchme/static/css/main.d6940d0d.css.map",
+    "main.8a902ec4.js.map": "/pitchme/static/js/main.8a902ec4.js.map",
     "reactPlayerYouTube.d9d564e9.chunk.js.map": "/pitchme/static/js/reactPlayerYouTube.d9d564e9.chunk.js.map",
     "reactPlayerSoundCloud.9e403c6c.chunk.js.map": "/pitchme/static/js/reactPlayerSoundCloud.9e403c6c.chunk.js.map",
     "reactPlayerVimeo.2d897bc9.chunk.js.map": "/pitchme/static/js/reactPlayerVimeo.2d897bc9.chunk.js.map",
-    "reactPlayerFacebook.9dfc7391.chunk.js.map": "/pitchme/static/js/reactPlayerFacebook.9dfc7391.chunk.js.map",
+    "reactPlayerFacebook.6169ffb1.chunk.js.map": "/pitchme/static/js/reactPlayerFacebook.6169ffb1.chunk.js.map",
     "reactPlayerStreamable.514a0298.chunk.js.map": "/pitchme/static/js/reactPlayerStreamable.514a0298.chunk.js.map",
     "reactPlayerWistia.e8136594.chunk.js.map": "/pitchme/static/js/reactPlayerWistia.e8136594.chunk.js.map",
     "reactPlayerTwitch.8f6592cc.chunk.js.map": "/pitchme/static/js/reactPlayerTwitch.8f6592cc.chunk.js.map",
@@ -60,7 +64,7 @@
     "787.b3cff022.chunk.js.map": "/pitchme/static/js/787.b3cff022.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac9084d2.css",
-    "static/js/main.e528bf4a.js"
+    "static/css/main.d6940d0d.css",
+    "static/js/main.8a902ec4.js"
   ]
 }
