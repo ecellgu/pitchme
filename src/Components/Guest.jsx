@@ -2,6 +2,7 @@ import React from 'react';
 import img1 from '../Assets/khalid.png'
 import img2 from '../Assets/trina.png'
 import img3 from '../Assets/bahu.png'
+import img4 from '../Assets/vishal.png'
 
 function Guest() {
 
@@ -15,6 +16,12 @@ function Guest() {
             <img src={img1} alt="" className='lg:w-52 w-32 mb-2 hover:scale-105 transition-transform duration-300 ease-in-out'/>
             <div className='font-bold text-2xl'>Khalid Wani</div>
             <div className='font-semibold text-lg'>Founder & CEO KWCG</div>
+            <div className='font-normal text-sm'>{"("}Investor{")"}</div>
+        </div>
+        <div className='flex flex-col items-center'>
+            <img src={img4} alt="" className='lg:w-52 w-32 mb-2 hover:scale-105 transition-transform duration-300 ease-in-out'/>
+            <div className='font-bold text-2xl'>Vishal Gandhi</div>
+            <div className='font-semibold text-lg'>Founder and CEO BIORx</div>
             <div className='font-normal text-sm'>{"("}Investor{")"}</div>
         </div>
         <div className='flex flex-col items-center'>

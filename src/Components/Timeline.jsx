@@ -6,7 +6,7 @@ import img3 from '../Assets/goodies.svg'
 import img4 from '../Assets/certificate.svg'
 
 const Timeline = () => (
-<div className="bg-cover lg:bg-center pt-10 lg:pb-10 pb-20" style={{ backgroundImage: `url(${bg})` }}>
+<div className="bg-cover lg:bg-center pt-10 lg:pb-10" style={{ backgroundImage: `url(${bg})` }}>
 <div className="flex flex-col items-center lg:pl-32 lg:pr-32 pl-5 pr-5">
       <h2 className="lg:text-5xl text-4xl font-bold mb-4 text-white">Event <span className="text-yellow-500 lg:text-5xl text-4xl font-bold font-Roboto">
           Highlights
